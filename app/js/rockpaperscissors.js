@@ -91,7 +91,7 @@ function playToFive() {
     if (playerWins ===5){
         console.log("Congrat to player ");
     } else {
-        console.log("Why Me!!");
+        console.log("Maybe Next Time!!");
     }
     
 }
